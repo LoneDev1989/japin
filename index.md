@@ -111,6 +111,7 @@ At some point, we may wish to update the app. The app is currently available on 
 I may update our Terms and Conditions from time to time. Thus, you are advised to review this page periodically for any changes. I will notify you of any changes by posting the new Terms and Conditions on this page. These changes are effective immediately after they are posted on this page.
 
 **Terms and Conditions Specific to Japin Services and Limitations**
+
 Japin is a social networking app, with focus on pictures, which is currently available on android only. The app uses android services along with services from other open-source libraries. For back-end operations Japin uses Google Firebase services for user authentication and data storage. The app is created by Lone Dev, an app creator from India. The following paragraphs depicts the terms and conditions of using the app. 
 
 **Services offered by Japin**
